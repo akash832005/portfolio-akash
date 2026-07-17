@@ -23,7 +23,7 @@ export default function HeroSection() {
             <a href="#projects" className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-cyan-500 to-violet-500 px-5 py-3 font-semibold text-white shadow-lg shadow-cyan-900/30 transition hover:scale-[1.02]">
               View Projects <ArrowRight size={18} />
             </a>
-            <a href="/resume.pdf" className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-semibold text-slate-100 backdrop-blur transition hover:border-cyan-400/40 hover:text-cyan-300">
+            <a href="/resume_july2026.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-semibold text-slate-100 backdrop-blur transition hover:border-cyan-400/40 hover:text-cyan-300">
               <Download size={18} /> Download Resume
             </a>
             <a href="#contact" className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-semibold text-slate-100 backdrop-blur transition hover:border-cyan-400/40 hover:text-cyan-300">
