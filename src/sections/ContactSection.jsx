@@ -22,14 +22,14 @@ export default function ContactSection() {
                 <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/10 p-3 text-cyan-300"><BadgeCheck size={18} /></div>
                 <div>
                   <p className="text-sm text-slate-400">LinkedIn</p>
-                  <a href={profile.linkedin} target="_blank" rel="noreferrer" className="text-slate-200 transition hover:text-cyan-300">linkedin.com/in/akashpt</a>
+                  <a href={profile.linkedin} target="_blank" rel="noreferrer" className="text-slate-200 transition hover:text-cyan-300">linkedin.com/in/aakash-p-t-0a2404423</a>
                 </div>
               </div>
               <div className="flex items-center gap-3">
                 <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/10 p-3 text-cyan-300"><ArrowRight size={18} /></div>
                 <div>
                   <p className="text-sm text-slate-400">GitHub</p>
-                  <a href={profile.github} target="_blank" rel="noreferrer" className="text-slate-200 transition hover:text-cyan-300">github.com/akashpt</a>
+                  <a href={profile.github} target="_blank" rel="noreferrer" className="text-slate-200 transition hover:text-cyan-300">github.com/akash832005</a>
                 </div>
               </div>
             </div>
