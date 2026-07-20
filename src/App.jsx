@@ -25,9 +25,9 @@ function App() {
         <div className="mx-auto flex max-w-7xl flex-col gap-4 border-t border-white/10 pt-6 text-sm text-slate-400 sm:flex-row sm:items-center sm:justify-between">
           <p>© 2026 AKASH P. T. All rights reserved.</p>
           <div className="flex gap-4">
-            <a href="https://www.linkedin.com/in/akashpt" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">LinkedIn</a>
-            <a href="https://github.com/akashpt" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">GitHub</a>
-            <a href="https://akashpt.github.io" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">Portfolio</a>
+            <a href="https://www.linkedin.com/in/aakash-p-t-0a2404423" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">LinkedIn</a>
+            <a href="https://github.com/akash832005" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">GitHub</a>
+            <a href="https://portfolio-akash-zeta.vercel.app" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">Portfolio</a>
           </div>
         </div>
       </motion.footer>

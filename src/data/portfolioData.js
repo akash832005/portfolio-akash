@@ -6,9 +6,9 @@ export const profile = {
   email: 'akashakash4575@gmail.com',
   phone: '+91 8939457936',
   location: 'Chennai, India',
-  linkedin: 'https://www.linkedin.com/in/akashpt',
-  github: 'https://github.com/akashpt',
-  portfolio: 'https://akashpt.github.io',
+  linkedin: 'https://www.linkedin.com/in/aakash-p-t-0a2404423',
+  github: 'https://github.com/akash832005',
+  portfolio: 'https://portfolio-akash-zeta.vercel.app',
 }
 
 export const skills = [
@@ -59,8 +59,6 @@ export const projects = [
     description:
       'Architected a full-stack AI application that converts text prompts into comic-style images and videos, increasing content generation efficiency by 30%.',
     technologies: ['Python', 'Flask', 'React.js', 'MoviePy'],
-    github: '#',
-    demo: '#',
     category: 'AI',
   },
   {
@@ -68,8 +66,6 @@ export const projects = [
     description:
       'Built a scalable banking platform with interactive dashboards and secure JWT-authenticated APIs hosted on AWS.',
     technologies: ['React.js', 'Python', 'AWS EC2', 'AWS RDS', 'MySQL', 'JWT'],
-    github: '#',
-    demo: '#',
     category: 'Full Stack',
   },
 ]
